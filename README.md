@@ -42,27 +42,16 @@ Fitting times was very high, So I was just able to make limited models.
 Best model created was the Ridge model. Alpha hyperparameter has changed to where test-set had the best scores. Also we should note that Ridge Regression is a technique for analyzing multiple regression data that suffer from multicollinearity; thats why it performs a great model!
 
 * Validation-set:
-
-	Mean Squared Error:  21548831738.122257 
-  
-	Root Mean Squared Error:  146795.20338935553 
   
 	R2 Score:  0.9291079867926274
 
 
 * Test-set:
-	Mean Squared Error:  86184620392.58644 
-  
-	Root Mean Squared Error:  293572.1723743353 
-  
+ 
 	R2 Score:  0.7124283774278164
   
 
 * Random Predicts on Test-set:
-
-	Mean Squared Error:  775085153598.1973 
-  
-	Root Mean Squared Error:  880389.2057483424 
   
 	R2 Score:  -1.586221233400209
   
