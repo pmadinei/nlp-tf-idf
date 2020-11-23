@@ -19,7 +19,7 @@ As a result of what has been described, lets preprocess the two desc and title c
 ## Remove stopwords and Special Chars
 Because they are useless to the meaning of sentences and as a result, to prices.
 
-## Just one word columns!
+## Just one word columns
 Because only words and the count of them will be important for us, I merged Two "title" and "desc" columns into one column and remove the othe two. Also I filled empty new columns with "missing" for further conciderations.
 
 ## Column Normalizations
